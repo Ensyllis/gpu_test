@@ -2,6 +2,7 @@ import torch
 import torchvision
 import torchvision.transforms as transforms
 import numpy as np
+import matplotlib.pyplot as plt
 from train_cifar10 import Net  # Assuming your training script was named train_cifar10.py
 
 # Set device
